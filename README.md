@@ -14,3 +14,5 @@ Java JRE e JDK - O que é Java, JVM, JDK e JRE; Eclipse; Tipos e variáveis; Con
 - [Aula 05] Curso de Java Exceções - Pilha, exceções (try, catch, finally, throws, thow), checked e unchecked, RuntimeExecption e Exception. Exemplo Conta.
 
 - [Aula 06] Curso de Java Exceções - Pilha, exceções (try, catch, finally, throws, thow), checked e unchecked, RuntimeExecption e Exception. Exemplo Conexão. 
+
+- [Aula 07] Curso de Java java.lang - Pacotes, modificadores de acesso, javadoc, java.lang, Object. 
