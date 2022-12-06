@@ -18,3 +18,5 @@ Java JRE e JDK - O que é Java, JVM, JDK e JRE; Eclipse; Tipos e variáveis; Con
 - [Aula 07] Curso de Java java.lang - Pacotes, modificadores de acesso, javadoc, java.lang, Object. 
 
 - [Aula 08] Curso de Java java.util - Coleções, Wrappers e Lambda expressions. 
+
+- [Aula 09] Curso de Java java.io - Streams, Reader e Writers.
