@@ -24,3 +24,5 @@ Java JRE e JDK - O que é Java, JVM, JDK e JRE; Eclipse; Tipos e variáveis; Con
 - [Aula 10] Curso de Java Collections - Listas, Sets e Mapas.
 
 - [Aula 11] Curso de Java 8 - Lambdas, Method References, Streams, LocalDate. 
+
+- [Aula 12] Curso de Java - Testes automatizados com JUnit.

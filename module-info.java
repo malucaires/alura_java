@@ -6,4 +6,5 @@
  *
  */
 module alura_java {
+	requires junit;
 }
