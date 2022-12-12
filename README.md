@@ -1,4 +1,4 @@
-# alura_java
+# Alura - Formação Java e Orientação a Objetos
 
 - [Aula 00] Curso de
 Java JRE e JDK - O que é Java, JVM, JDK e JRE; Eclipse; Tipos e variáveis; Condicionais; Fluxo com laços. 
